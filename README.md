@@ -2,4 +2,4 @@
 Testing ALX
 
 Created this repository for ALX learning project.
-I love :coffee: :pizza:, and :dancer:.
+I love :tea: :chicken:, and :dancer:.
